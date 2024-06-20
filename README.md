@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **C & C++ Programming**
 
-- 📫 How to reach me **snk18012004@gmail.com**
+- 📫 How to reach me **nitishkumars9363@gmail.com**
 
 <p align="center">
 
